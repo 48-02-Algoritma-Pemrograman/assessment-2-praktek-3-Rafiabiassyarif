@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Assesment2 {
+public class Nomor1 {
     public static double hitungLuas(double alas, double tinggi) {
         return (alas * tinggi) / 2;
     }
